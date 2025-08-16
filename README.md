@@ -1,137 +1,96 @@
-👋 Hi, I'm Rahul Singh
+# 👨‍💻 Rahul Singh
 
-💻 Aspiring AI & Full-Stack Developer | 🚀 Passionate about Machine Learning, Web Development, and IoT | 🌱 Always learning and building cool stuff!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/rahul-singh868)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/868Rahul)
 
-🚀 About Me
+## 🚀 AI & Full-Stack Developer | Machine Learning Enthusiast | India
 
-🎓 Currently pursuing B.Tech in Artificial Intelligence & Data Science (AIDS) (4th Semester, Avg SGPA: 8.62)
+> B.Tech in Artificial Intelligence & Data Science (4th Semester, Avg SGPA: 8.62)  
+> Passionate about building AI-powered full-stack applications and IoT solutions
 
-🛠️ Skilled in MERN Stack (MongoDB, Express.js, React.js, Node.js), C, C++, Python, and Machine Learning
+### 📫 Contact
 
-🌐 Interested in building AI-powered full-stack applications that solve real-world problems
+- Email: **9905singhrahul@gmail.com**
 
-🤖 Exploring IoT, Data Science, and Computer Vision
+---
 
-📚 Love teaching & simplifying technical concepts as if explaining to a 10-year-old
+## 💼 About Me
 
-🏋️ On a personal journey of fitness transformation (burning fat, toning physique 💪)
+🎓 Pursuing B.Tech in **Artificial Intelligence & Data Science**  
+💻 Skilled in **MERN Stack, Python, C/C++**, and **Machine Learning**  
+🤖 Building **AI-powered applications** that solve real-world problems  
+🌱 Exploring **IoT, Computer Vision, and Data Science**  
+🏋️ On a personal **fitness transformation** journey (burning fat, toning physique 💪)  
+📚 Love teaching technical concepts in simple terms  
 
-🔧 Tech Stack
-🌐 Web Development
+---
 
-Frontend: React.js, HTML, CSS, JavaScript, TypeScript, TailwindCSS, shadcn/ui
+## 🛠️ Tech Stack
 
-Backend: Node.js, Express.js
+### 🤖 AI & Data Science
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-007ACC?style=for-the-badge&logo=matplotlib&logoColor=white)
 
-Database: MongoDB, Firebase, MySQL
+### 🌐 Web Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-🤖 AI & Data Science
+### ⚙️ Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-Machine Learning (Keras, TensorFlow, scikit-learn, pandas, numpy, matplotlib)
+### 🛰️ IoT & Hardware
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Bluetooth](https://img.shields.io/badge/Bluetooth-0082FC?style=for-the-badge&logo=bluetooth&logoColor=white)
 
-Data Cleaning, Visualization, and EDA
+---
 
-Model Training (classification, prediction, optimization models)
+## 🚀 Featured Projects
 
-⚙️ Programming Languages
+### 🏥 Integrated Healthcare Management System
+> Full-stack hospital system with role-based dashboards, smart queuing, and AI-based demand prediction  
+> **Tech:** React.js, Node.js, Firebase, Machine Learning
 
-Python 🐍
+### 🏗️ Crane Company Website (JCB-style)
+> Full-stack company website with custom DB connection  
+> **Tech:** React.js, Node.js, MongoDB
 
-C / C++
+### 👴 ElderCare Collaboration System
+> Multi-agent AI system for elderly support with real-time monitoring  
+> **Tech:** MERN Stack (TypeScript)
 
-JavaScript (ES6+)
+### 🔥 AI Fire Detection Model
+> Trained using Keras & TensorFlow with dataset preprocessing  
+> **Tech:** Python, TensorFlow, Data Augmentation
 
-SQL
+### ⚡ IoT + Web Integration
+> Sent values from React.js to Arduino Mega via HC-05 Bluetooth  
+> **Tech:** React.js, Node.js, Arduino
 
-🛰️ IoT & Hardware
+---
 
-Arduino Mega + HC-05 Bluetooth Communication
+## 📊 GitHub Stats
 
-IoT system integration with backend servers
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=868Rahul&show_icons=true&locale=en&layout=compact&theme=radical" alt="868Rahul" />
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=868Rahul&show_icons=true&locale=en&theme=radical" alt="868Rahul" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=868Rahul&theme=radical" alt="868Rahul" />
+</div>
 
-📌 Featured Projects
-🏥 Integrated Healthcare Management System
+---
 
-A full-stack system for hospitals with:
-
-Role-based dashboards (Patients, Doctors, Admins)
-
-Smart queuing for appointments
-
-Inventory & medicine management with AI-based demand prediction
-
-Automated patient reminders
-
-Tech: React.js, Node.js, Firebase, Machine Learning
-
-🏗️ Crane Company Website (JCB-style)
-
-Full-stack company website
-
-Frontend: React.js, HTML, CSS
-
-Backend: Node.js + MongoDB (custom DB connection)
-
-👴 ElderCare Collaboration System (MERN)
-
-Multi-agent AI system for elderly support
-
-Features: Real-time monitoring, reminders, safety alerts, caregiver dashboard
-
-Tech: MongoDB, Express, React (TypeScript), Node.js
-
-🎬 Trending Movies Web App
-
-Shows top 5 trending movies dynamically
-
-Deployed on Vercel
-
-Tech: React.js, HTML, CSS
-
-🤖 AI Model Training – Fire Detection
-
-Dataset preprocessing, cleaning, and augmentation
-
-Trained using Keras & TensorFlow
-
-Wireframed process with step-by-step ML pipeline explanation
-
-🔗 IoT + Web Integration
-
-Sent values from a React.js webpage to Arduino Mega (via HC-05 Bluetooth) using Node.js backend
-
-📝 Academic Work
-
-DSA Assignments: BFS, DFS, Prim’s, Kruskal’s, Trie, B-Trees, Heaps, Hashing, Indexing
-
-MIS Assignments: CRM, e-commerce, SCM, decision support systems, predictive analytics
-
-DBMS Assignments: ER diagrams, relational models, constraints, normalization
-
-📊 GitHub Stats
-
-![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=868Rahul&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=868Rahul&layout=compact&theme=radical)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=868Rahul&theme=radical)
-
-
-
-
-🌱 Goals
-
-Master AI + Full-Stack Development
-
-Build impactful real-world AI solutions
-
-
-📫 Connect With Me
-
-📧 Email: [9905singhrahul@gmail.com]
-
-💼 LinkedIn: [in/ rahul-singh868]
-
-🐙 GitHub: [github.com/rahulsingh](https://github.com/868Rahul)
-
-✨ "Dream it. Build it. Live it." ✨
+<div align="center">
+  <i>✨"Dream it. Build it. Live it."✨ - Open to collaborations on AI and full-stack projects!</i>
+</div>
