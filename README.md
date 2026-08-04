@@ -150,14 +150,9 @@ End-to-end LangChain notebooks — LLM fundamentals, RAG pipelines, agents, tool
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=868Rahul&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=868Rahul&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
-
-<br/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=868Rahul&theme=github-dark-blue&hide_border=true" />
 
-<br/><br/>
+<br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=868Rahul&theme=github-compact&hide_border=true&area=true" />
 
