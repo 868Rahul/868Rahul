@@ -24,7 +24,7 @@ class RahulKumarSingh:
     def __init__(self):
         self.role        = "AI Engineer | Final Year B.E. @ DYPIEMR, Pune"
         self.focus       = ["Generative AI", "RAG Systems", "Agentic AI", "LLM Fine-tuning"]
-        self.stack       = ["LangChain", "LangGraph", "MCP", "FastAPI", "Docker", "AWS", "GCP"]
+        self.stack       = ["LangChain", "LangGraph", "MCP", "FastAPI", "Docker", "AWS"]
         self.certified   = "Oracle Cloud Infrastructure 2025 Generative AI Professional"
         self.currently   = "Building end-to-end AI systems & preparing for placements"
         self.open_to     = "AI Engineer Internships · GenAI Roles · Collaborations"
@@ -45,7 +45,7 @@ class RahulKumarSingh:
 | **ML / DL** | Scikit-learn · TensorFlow · PyTorch · Transformers · Computer Vision |
 | **NLP** | BERT · Embeddings · Text Classification · Named Entity Recognition |
 | **Backend & Deployment** | FastAPI · Docker · REST APIs · Python |
-| **Cloud** | AWS · GCP · Oracle Cloud Infrastructure |
+| **Cloud** | AWS · Oracle Cloud Infrastructure |
 | **Data & Databases** | Pandas · NumPy · MySQL · MongoDB · Vector Databases |
 | **Dev Tools** | Git · GitHub · Jupyter · LangSmith · VS Code |
 
@@ -171,7 +171,6 @@ End-to-end LangChain notebooks — LLM fundamentals, RAG pipelines, agents, tool
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -189,7 +188,5 @@ End-to-end LangChain notebooks — LLM fundamentals, RAG pipelines, agents, tool
 **Currently building:** `Agentic AI systems` · `RAG pipelines` · `LLM-powered applications`
 
 **Open to:** AI Engineer Internships · GenAI Roles · Agentic AI Projects — **Pune / Remote**
-
-[![Profile Views](https://komarev.com/ghpvc/?username=868Rahul&style=flat-square&color=58A6FF&label=Total+Profile+Views)](https://github.com/868Rahul)
 
 </div>
