@@ -8,7 +8,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/rahul-singh868)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:9905singhrahul@gmail.com)
 [![Oracle GenAI](https://img.shields.io/badge/Oracle_Certified-GenAI_Professional-F80000?style=flat-square&logo=oracle&logoColor=white)](#)
-[![CGPA](https://img.shields.io/badge/CGPA-8.55%2F10-22c55e?style=flat-square)](#)
+[![CGPA](https://img.shields.io/badge/CGPA-8.70%2F10-22c55e?style=flat-square)](#)
 [![Profile Views](https://komarev.com/ghpvc/?username=868Rahul&style=flat-square&color=58A6FF&label=Profile+Views)](https://github.com/868Rahul)
 
 <sub>B.E. AI & Data Science · DYPIEMR, Pune · <strong>Actively seeking AI Engineer Internships & Placements (2026)</strong></sub>
